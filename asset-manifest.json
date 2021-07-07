@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/FAQreact/static/css/main.4b60e9f8.chunk.css",
+    "main.js": "/FAQreact/static/js/main.843ac4ea.chunk.js",
+    "main.js.map": "/FAQreact/static/js/main.843ac4ea.chunk.js.map",
+    "runtime-main.js": "/FAQreact/static/js/runtime-main.10c5e213.js",
+    "runtime-main.js.map": "/FAQreact/static/js/runtime-main.10c5e213.js.map",
+    "static/js/2.88ec7f05.chunk.js": "/FAQreact/static/js/2.88ec7f05.chunk.js",
+    "static/js/2.88ec7f05.chunk.js.map": "/FAQreact/static/js/2.88ec7f05.chunk.js.map",
+    "static/js/3.735069c5.chunk.js": "/FAQreact/static/js/3.735069c5.chunk.js",
+    "static/js/3.735069c5.chunk.js.map": "/FAQreact/static/js/3.735069c5.chunk.js.map",
+    "index.html": "/FAQreact/index.html",
+    "static/css/main.4b60e9f8.chunk.css.map": "/FAQreact/static/css/main.4b60e9f8.chunk.css.map",
+    "static/js/2.88ec7f05.chunk.js.LICENSE.txt": "/FAQreact/static/js/2.88ec7f05.chunk.js.LICENSE.txt",
+    "static/media/QuestionContainer.css": "/FAQreact/static/media/bg-pattern-desktop.f51e07a2.svg",
+    "static/media/icon-arrow-down.852fa301.svg": "/FAQreact/static/media/icon-arrow-down.852fa301.svg",
+    "static/media/illustration-box-desktop.ec1ba14b.svg": "/FAQreact/static/media/illustration-box-desktop.ec1ba14b.svg",
+    "static/media/illustration-woman-online-desktop.843eb114.svg": "/FAQreact/static/media/illustration-woman-online-desktop.843eb114.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.10c5e213.js",
+    "static/js/2.88ec7f05.chunk.js",
+    "static/css/main.4b60e9f8.chunk.css",
+    "static/js/main.843ac4ea.chunk.js"
+  ]
+}
